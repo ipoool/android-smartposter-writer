@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Poster Tag Writter</string>
+    <string name="taphere">To set smart poster\'s URL, tap here!</string>
+    <string name="go">Go</string>
+    <string name="desc">Description</string>
+</resources>
